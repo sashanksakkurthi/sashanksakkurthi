@@ -26,8 +26,7 @@
 • Linux :- Ubuntu  
 • Containerization :- Docker  
 • Server :- Nginx        
-• CD and CD :- GitHub Actions, Jenkins  
+• CD and CD :- GitHub Actions              
 • Container Orchestration : Kubernetes  
 • Cloud Providers :- GCP, Azure  
-• IAC :- Terraform  
-• Configuration Management :- Ansible
+
