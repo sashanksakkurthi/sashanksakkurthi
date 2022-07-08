@@ -25,7 +25,7 @@
 #### ☁️ Devops
 • Linux :- Ubuntu  
 • Containerization :- Docker  
-• Server :- Nginx 
+• Server :- Nginx        
 • CD and CD :- GitHub Actions, Jenkins  
 • Container Orchestration : Kubernetes  
 • Cloud Providers :- GCP, Azure  
